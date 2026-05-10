@@ -1,0 +1,37 @@
+{
+  "name": "Gaurav",
+  "title": "Lead Engineer | Language AI | Samsung R&D Bangalore",
+  "resumeId": "1UzJ_q4TgcsdnLCYFc9wVw_eWEH0EIT5y",
+  "specialization": "Building scalable AI systems, agentic workflows, and multimodal intelligence.Focused on LLM infrastructure, optimization, and experimental machine learning systems. Experience spans RTOS (TizenRT), C++, and systems engineering at the edge of performance and reliability. ",
+  "navigation": [
+    {
+      "name": "Education",
+      "path": "/Education"
+    },
+    {
+      "name": "Experience",
+      "path": "/Experience"
+    },
+    {
+      "name": "Projects",
+      "path": "/projects"
+    },
+    {
+      "name": "Blog",
+      "path": "/blog"
+    },
+    {
+      "name": "Resume",
+      "path": "/resume"
+    },
+    {
+      "name": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "socials": {
+    "github": "https://github.com/gaurav-1200/",
+    "twitter": "https://twitter.com/IsmGaurav",
+    "linkedin": "https://linkedin.com/in/gaurav-1200/"
+  }
+}
